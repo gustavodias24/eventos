@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/espacoExpositor"
+        android:title="Espaço do Expositor" />
+
+    <item
+        android:id="@+id/impressaMenu"
+        android:title="IMPRENSA" />
+
+    <item
+        android:id="@+id/inscricoesMenu"
+        android:title="INSCRIÇÕES" />
+
+    <item
+        android:id="@+id/blogMenu"
+        android:title="BLOG" />
+
+    <item
+        android:id="@+id/rodeioMenu"
+        android:title="RODEIO" />
+
+    <item
+        android:id="@+id/faleConoscoMenu"
+        android:title="FALE CONOSCO" />
+
+
+</menu>
